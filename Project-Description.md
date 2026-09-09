@@ -1,6 +1,7 @@
 ## AgriTech (not finalized)
 
 Chi Thanh Tran (Computer Science) - tranc8@mail.uc.edu
+
 Luke Grochocki (Computer Engineering) - grochola@mail.uc.edu
 
 # Project Description
